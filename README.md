@@ -1,15 +1,19 @@
 # PYTHON-JOURNEY
-# Treasure Island
+## Day 4 - Treasure Island
 
 A text-based adventure game built while learning Python.
 
-## Concepts Used
+### Concepts Used
 
 - if / elif / else
 - Nested conditions
 - User input
 - String methods (.upper())
 
-## Outcome
+### Outcome
 
 Find the treasure while avoiding dangerous choices.
+
+### Status
+
+✅ Completed
