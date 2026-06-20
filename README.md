@@ -9,6 +9,7 @@ A text-based adventure game built while learning Python.
 - Nested conditions
 - User input
 - String methods (.upper())
+- Invalid inputs handling
 
 ### Outcome
 
